@@ -1,0 +1,13 @@
+/* МОЙ КОООООООООД! */
+.delete {
+  cursor: pointer;
+}
+.change-number {
+  padding: 3px;
+  cursor: pointer;
+  outline: 1px solid grey;
+}
+#counter {
+  padding-top: 7px; 
+}
+
